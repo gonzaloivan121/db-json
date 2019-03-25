@@ -1,12 +1,14 @@
 {
-    "data": {
-    	"teilnahmebeginn": 1553534974,
-	    "eweStatus": "GEGEBEN",
-	    "eweAenderung": 1553535074,
-	    "eweUeberlagerung": null,
-	    "gueltigBis": 1553535087,
-	    "einloeseBis": 1553535092,
-	    "ewe09": true,
-	    "ewe16": true,
-    }
+    "data": [
+    	{
+	    	"teilnahmebeginn": 1553534974,
+		    "eweStatus": "GEGEBEN",
+		    "eweAenderung": 1553535074,
+		    "eweUeberlagerung": null,
+		    "gueltigBis": 1553535087,
+		    "einloeseBis": 1553535092,
+		    "ewe09": true,
+		    "ewe16": true,
+	    }
+    ]
 }
